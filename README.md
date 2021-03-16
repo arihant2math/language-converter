@@ -1,2 +1,2 @@
-# pythonmarkdownhtml
-Converts markdown to html
+# Language converter
+Converts languages
